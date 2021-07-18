@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "angular11jwtauth"
+  "defaultProject": "angular11jwtauth",
+  "cli": {
+    "analytics": false
+  }
 }
